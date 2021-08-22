@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.416309mm"
+   height="35.488144mm"
+   viewBox="0 0 46.416309 35.488144"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="navbar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.8431889"
+     inkscape:cx="58.209288"
+     inkscape:cy="72.277998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.437331,-126.80153)">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.527491;stroke-opacity:1"
+       id="rect846"
+       width="45.648285"
+       height="6.2777319"
+       x="55.701077"
+       y="127.06528" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.537047;stroke-opacity:1"
+       id="rect848"
+       width="45.648285"
+       height="6.5072231"
+       x="55.861809"
+       y="141.21732" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.522773;stroke-opacity:1"
+       id="rect932"
+       width="45.812603"
+       height="6.1438122"
+       x="55.779652"
+       y="155.88448" />
+  </g>
+</svg>
