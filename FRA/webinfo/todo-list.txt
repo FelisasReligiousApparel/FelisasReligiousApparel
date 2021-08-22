@@ -1,9 +1,0 @@
-fix any errors with page translation
-finish header
-add about page
-add mobile support {
-	add  ===> responsive
-	fix     ===> nav
-}
-and popup header elements on page load
-add scroll popup elements
