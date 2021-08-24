@@ -1,4 +1,0 @@
-theme = "black, white"
-resonsive = true
-popup_elements = true
-logo_color = "#829FAC"
