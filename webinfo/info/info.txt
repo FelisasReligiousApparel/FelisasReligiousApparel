@@ -1,0 +1,24 @@
+business_name = "Felisa's Religius Apperal"
+business_phone = "725-710-6914"
+business_email = "gefelisaboutique@gmail.com"
+has_logo = false
+has_domain = false
+SEO = null
+description = "This business is about some good quality and above all responsible to customers, above all respect and kindness to our customers."
+faq = {
+	1.  
+	2.
+	3.
+	4.
+	5.
+}
+
+Questions:
+Price
+Product
+
+
+Facebook link!
+https://www.facebook.com/dressesboutiqu2
+
+About Page Paragraph:
